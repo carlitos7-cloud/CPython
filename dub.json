@@ -1,5 +1,5 @@
 {
-    "name": "cpython",
+    "name": "cpython-d",
     "description": "static bindings to the CPython C API",
     "authors": ["Ellery Newcomer", "Kirk McDonald"],
     "license": "MIT",
